@@ -1,0 +1,8 @@
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\bin\Debug\ActividadBaraja.exe.config
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\bin\Debug\ActividadBaraja.exe
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\bin\Debug\ActividadBaraja.pdb
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\obj\Debug\ActividadBaraja.csproj.AssemblyReference.cache
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\obj\Debug\ActividadBaraja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\obj\Debug\ActividadBaraja.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\obj\Debug\ActividadBaraja.exe
+C:\Users\Manu\source\repos\ActividadBaraja\ActividadBaraja\obj\Debug\ActividadBaraja.pdb
